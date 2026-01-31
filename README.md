@@ -23,12 +23,12 @@ Example:
 
 ### Step 1: Clone or Download the Repository
 
-it clone <your-git-repo-link>
+it clone <https://github.com/Samadhi632/IT3040-Assignment1-IT23637146.git>
 
 2. Go into the project folder:
 
 
-cd <your-project-folder>
+cd <IT23637146>
 
 3. Install the dependencies:
 
@@ -69,5 +69,5 @@ Example:
 
 ## Notes
 - Tests use Chromium by default.
-- Ensure you have a stable internet connection to open the website.
+- Ensure have a stable internet connection to open the website.
 - All tests are located in the tests/ folder.
