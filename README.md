@@ -1,6 +1,6 @@
-# IT3040-Assignment1-IT23637146
 # Singlish Translator Playwright Tests
-his project contains automated tests for the SwiftTranslator Singlish to Sinhala conversion system using Playwright.
+
+This project contains automated tests for the SwiftTranslator Singlish to Sinhala conversion system using Playwright.
 
 ## Project Overview
 
